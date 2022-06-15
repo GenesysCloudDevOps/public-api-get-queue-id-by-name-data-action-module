@@ -6,14 +6,7 @@
     "type": "module",
     "classification": "Routing",
     "tags": ["Routing"],
-    "permissions": ["routing:queue:view"],
-    "products": [
-        "Quality Assurance and Compliance",
-        "Baseline channel-agnostic permissions for handling interactions",
-        "Communicate",
-        "Genesys EX: Employee Experience",
-        "Resource Management"
-    ],
+    "permissions": ["routing:queue:view"],    
     "documentation": [],
     "presentation": [
         {
